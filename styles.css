@@ -1,0 +1,15 @@
+.bg-image {
+    background-image: url('pexels-wendywei-1190297.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 410px;
+    position: relative;
+  }
+  .mask {
+    background-color: rgba(0, 0, 0, 0.6);
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
